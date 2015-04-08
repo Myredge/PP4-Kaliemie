@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/pensec/Documents/GitHub/PP4-Kaliemie/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/Users/pensec/Documents/GitHub/PP4-Kaliemie/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">ANDROID_PROJET_3_FARIA</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_export">Exporter les patients</string>
+    <string name="menu_import">Importer les patients</string>
+    <string name="menu_list">Liste des patients</string>
+    <string name="title_activity_a1">A1</string>
+    <string name="title_activity_accueil">Accueil</string>
+    <string name="title_activity_act_export">ActExport</string>
+    <string name="title_activity_act_import">ActImport</string>
+    <string name="title_activity_affiche_liste_patient">AfficheListePatient</string>
+    <string name="title_activity_modification_patient">ModificationPatient</string>
+    <!-- From: file:/C:/Users/pensec/Documents/GitHub/PP4-Kaliemie/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
