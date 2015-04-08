@@ -17,7 +17,7 @@ public class Accueil extends Activity {
 		setContentView(R.layout.activity_main);
 		monModele=new Modele();
 	}
-    
+
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
 		// Inflate the menu; this adds items to the action bar if it is present.
